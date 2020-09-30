@@ -1,0 +1,20 @@
+#message-container {
+    width: 80%;
+    position: relative;
+    left: 10%;
+    height: 80%;
+    top: 10%;
+    align-items: center;
+}
+#send-container {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    align-items: center;
+}
+
+#message-input {
+    width: 60%;
+    margin: 2%;
+    padding: 2%;
+}
